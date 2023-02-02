@@ -7,7 +7,7 @@
 A repository for feedback textures using [TouchDesigner](https://derivative.ca/).
 <br>
 <br>
-Demo video is ~~[here]()~~.
+Demo video is [here](https://youtu.be/Tk-Vyy5u97g).
 <br>
 <br>
 
